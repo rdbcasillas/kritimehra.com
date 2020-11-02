@@ -1,0 +1,43 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Product Manager
+# your company information
+# company:
+  #name: Independent
+  #url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate product professional with 10+ years of working experience. I have developed and launched large-scale programs in education. I have developed products in ecommerce and mobile technology.
+
+I work with startups to help them conduct consumer research, find product market fit and take the product to market.
+
+I am passionate about methods to teach logic and 21st century skills.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.github.com/example"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Product Mgmt.
+  percentage: 85
+  color: blue
+- name: Consumer Research
+  percentage: 90
+  color: yellow
