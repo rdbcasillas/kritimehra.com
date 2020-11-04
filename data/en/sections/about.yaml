@@ -27,9 +27,15 @@ I am passionate about methods to teach logic and 21st century skills.'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: email
+  icon: "fas fa-envelope"
+  url: "kriti.mehra@gmail.com"
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.github.com/example"
+  url: "https://www.linkedin.com/in/kritimehra"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/kritimeh"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.

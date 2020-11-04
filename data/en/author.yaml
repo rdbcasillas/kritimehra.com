@@ -3,15 +3,14 @@ name: "Kriti Mehra"
 nickname: "Kriti"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/KritiMehra.jpg"
+image: "images/author/kritipic.JPG"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "kriti.mehra@gmail.com"
-  phone: "+0123456789"
+  #phone: "+0123456789"
 
 # some summary about what you do
 summary:
   - I am a Product Manager
-  - I am an Independent Consultant
-  - I work with edtech companies and advise upcoming startups 
-  - I am passionate about improving learning and pedagogy
+  - I help startups launch new products
+  - I am passionate about education technology and learning outcomes
